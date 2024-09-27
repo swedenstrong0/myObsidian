@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Типы данных/Типы данных.md",
+                "file": "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Типы данных/Типы данных.md",
+                "file": "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Типы данных/Типы данных.md",
+                "file": "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Типы данных/Типы данных.md"
+                "file": "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md"
               }
             }
           },
@@ -207,13 +207,13 @@
   "active": "a4d1b8da6ab387bb",
   "lastOpenFiles": [
     "Csharp/Типы данных/Суффиксы числовых типов с плавающей запятой.md",
+    "Csharp/Типы данных/Типы данных.md",
     "README.md",
     "ЧЕКЛИСТ.md",
     "2024-09-26.md",
     "Посмотреть видео курс по XML.md",
     "Csharp/Пространства Имен Using/Пространство имен XML.md",
     "Без названия",
-    "Csharp/Типы данных/Типы данных.md",
     "Пространство имен Using.md",
     "Csharp/Пространства Имен Using",
     "Csharp/Cписок литературы/Список литературы.md",
