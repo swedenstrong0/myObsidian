@@ -11,18 +11,47 @@
             "id": "a4d1b8da6ab387bb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Безымянная Kanban-доска.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Пространства Имен Using/Пространство имен XML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9659870c4303cb7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Версии .Net/Неявно импортированные пространства имен по SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a8773262b161021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Cписок литературы/Список литературы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e84a93c69228327e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пространства Имен Using/Пространство имен XML.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Безымянная Kanban-доска.md",
+                "file": "Пространства Имен Using/Пространство имен XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Безымянная Kanban-доска.md",
+                "file": "Пространства Имен Using/Пространство имен XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Безымянная Kanban-доска.md"
+                "file": "Пространства Имен Using/Пространство имен XML.md"
               }
             }
           },
@@ -154,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +205,18 @@
   },
   "active": "a4d1b8da6ab387bb",
   "lastOpenFiles": [
-    "Безымянная Kanban-доска.md",
+    "Пространства Имен Using/Пространство имен XML.md",
+    "README.md",
+    "ЧЕКЛИСТ.md",
+    "Csharp/Типы данных/Типы данных.md",
+    "Пространство имен Using.md",
+    "Пространства Имен Using",
+    "Csharp/Cписок литературы/Список литературы.md",
+    "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
     "2024-09-26.md",
+    "Excalidraw/Drawing 2024-09-27 19.55.40.excalidraw.md",
     "Csharp/Версии .Net/Неявно импортированные пространства имен по SDK.md",
-    "Без названия.md",
+    "Excalidraw",
     "Csharp/Версии .Net/Версии .Net.md",
     "Csharp/Версии .Net/Pasted image 20240925213406.png",
     "Csharp/Типы данных/Сравнение типов Double и decimal/Сравнение типов double и decimal.md",
@@ -189,9 +224,6 @@
     "Csharp/Хранение текста.md",
     "Csharp/Переменные/Присвоение имен и значений.md",
     "Csharp/Хранение вещественных чисел.md",
-    "Csharp/Типы данных/Типы данных.md",
-    "Csharp/Cписок литературы/Список литературы.md",
-    "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
     "Csharp/Типы данных/Сравнение типов Double и decimal",
     "Csharp/Типы данных/Сравнение типов Double и decimal/Pasted image 20240926215306.png",
     "Csharp/Типы данных",
