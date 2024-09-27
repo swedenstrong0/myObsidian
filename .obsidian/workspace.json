@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "720031f02f01d701",
+    "type": "split",
+    "children": [
+      {
+        "id": "41dd431bb5ca14d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d1b8da6ab387bb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Безымянная Kanban-доска.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c66d7274cd4e7c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea0861ace09425a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c119d5e3be6017eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "905874051253a75b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f8e92bb21d58fb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "0e8599fd4ffddc34",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b97462f84e6d636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c90fa2a27567851",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Безымянная Kanban-доска.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "639d615f816d7cf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Безымянная Kanban-доска.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "331c0d1014aef942",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e0ceee46ea1cc3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Безымянная Kanban-доска.md"
+              }
+            }
+          },
+          {
+            "id": "cd0e57bd07eb5e0a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5b2b067e3531640",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "homepage:Open homepage": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "a4d1b8da6ab387bb",
+  "lastOpenFiles": [
+    "Безымянная Kanban-доска.md",
+    "2024-09-26.md",
+    "Csharp/Версии .Net/Неявно импортированные пространства имен по SDK.md",
+    "Без названия.md",
+    "Csharp/Версии .Net/Версии .Net.md",
+    "Csharp/Версии .Net/Pasted image 20240925213406.png",
+    "Csharp/Типы данных/Сравнение типов Double и decimal/Сравнение типов double и decimal.md",
+    "Csharp/Типы данных/Суффиксы числовых типов с плавающей запятой.md",
+    "Csharp/Хранение текста.md",
+    "Csharp/Переменные/Присвоение имен и значений.md",
+    "Csharp/Хранение вещественных чисел.md",
+    "Csharp/Типы данных/Типы данных.md",
+    "Csharp/Cписок литературы/Список литературы.md",
+    "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
+    "Csharp/Типы данных/Сравнение типов Double и decimal",
+    "Csharp/Типы данных/Сравнение типов Double и decimal/Pasted image 20240926215306.png",
+    "Csharp/Типы данных",
+    "Csharp/Переменные/Работа с переменными.md",
+    "Csharp/Переменные",
+    "Csharp",
+    "Csharp/Cписок литературы",
+    "Csharp/Версии .Net",
+    "Добро пожаловать.md"
+  ]
+}
