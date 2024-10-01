@@ -4,7 +4,8 @@ XML удобен для того чтобы его писали люди, нап
 
 ## Пространство имен, в котором содержатся классы, необходимые для работы с XML файлами.
 
-System.XML
+usig System.XML
+using static System.Console
 
 _____
 #Источник : https://www.youtube.com/watch?v=4XhL-wn8BOo 

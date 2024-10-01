@@ -8,51 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4d1b8da6ab387bb",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ЧЕКЛИСТ.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "9659870c4303cb7f",
+            "id": "13bc1c3b78dfc474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Версии .Net/Неявно импортированные пространства имен по SDK.md",
+                "file": "Csharp/Текста строки и хранение/Хранение текста.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a8773262b161021",
+            "id": "ab28327de86747f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Cписок литературы/Список литературы.md",
+                "file": "Csharp/Пространства Имен Using/Using.Все пространства имен.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e84a93c69228327e",
+            "id": "2ba4209dcfff4226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы для самопроверки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c818993550af82a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ЧЕКЛИСТ.md",
+                "file": "Вопросы для самопроверки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ЧЕКЛИСТ.md",
+                "file": "Вопросы для самопроверки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЧЕКЛИСТ.md"
+                "file": "Вопросы для самопроверки.md"
               }
             }
           },
@@ -212,30 +205,37 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "a4d1b8da6ab387bb",
+  "active": "2ba4209dcfff4226",
   "lastOpenFiles": [
-    "Csharp/Типы данных/Типы данных.md",
-    "Csharp/Типы данных/Суффиксы числовых типов с плавающей запятой.md",
-    "Csharp/Переменные/Работа с переменными.md",
-    "Csharp/Переменные/Присвоение имен и значений.md",
-    "Csharp/Cписок литературы/Список литературы.md",
-    "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
-    "README.md",
-    "ЧЕКЛИСТ.md",
-    "2024-09-26.md",
-    "Посмотреть видео курс по XML.md",
+    "Csharp/Пространства Имен Using/Using.Все пространства имен.md",
+    "Вопросы для самопроверки.md",
     "Csharp/Пространства Имен Using/Пространство имен XML.md",
-    "Без названия",
+    "Csharp/Версии .Net/Неявно импортированные пространства имен по SDK.md",
+    "Csharp/Массивы/Массивы.md",
+    "ЧЕКЛИСТ.md",
+    "README.md",
+    "Csharp/Типы данных/Суффиксы числовых типов с плавающей запятой.md",
+    "Csharp/Типы данных/Сравнение типов Double и decimal/Сравнение типов double и decimal.md",
+    "Csharp/Типы данных/Типы данных.md",
+    "Список нерешенных Кат.md",
+    "Csharp/Текста строки и хранение/Форматируемые строки.md",
+    "Csharp/Текста строки и хранение/Хранение текста.md",
+    "Csharp/Текста строки и хранение/Хранение вещественных чисел.md",
+    "Csharp/Текста строки и хранение",
+    "Посмотреть видео курс по XML.md",
+    "Csharp/Переменные/Присвоение имен и значений.md",
+    "Стиль написания кода на Csharp.md",
+    "Csharp/Переменные/Работа с переменными.md",
+    "Csharp/Массивы",
+    "Csharp/Cписок литературы/Репозитории GitHub для работы над Csharp и связанными технологиями.md",
+    "Csharp/Cписок литературы/Список литературы.md",
+    "2024-09-26.md",
     "Пространство имен Using.md",
     "Csharp/Пространства Имен Using",
     "Excalidraw/Drawing 2024-09-27 19.55.40.excalidraw.md",
-    "Csharp/Версии .Net/Неявно импортированные пространства имен по SDK.md",
     "Excalidraw",
     "Csharp/Версии .Net/Версии .Net.md",
     "Csharp/Версии .Net/Pasted image 20240925213406.png",
-    "Csharp/Типы данных/Сравнение типов Double и decimal/Сравнение типов double и decimal.md",
-    "Csharp/Хранение текста.md",
-    "Csharp/Хранение вещественных чисел.md",
     "Csharp/Типы данных/Сравнение типов Double и decimal",
     "Csharp/Типы данных/Сравнение типов Double и decimal/Pasted image 20240926215306.png",
     "Csharp/Типы данных",

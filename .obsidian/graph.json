@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"Csharp/Текста строки и хранение\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9082608
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000016,
+  "scale": 1.0000000000000029,
   "close": false
 }
